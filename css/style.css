@@ -11,7 +11,8 @@
   
   
   body{
-    background-color: #FFEDD5;
+    /*background-color: #FFEDD5;*/
+    background-image: url("./img/imgRock.jpg");
     font-family: 'Roboto Serif', serif;
   }
   
